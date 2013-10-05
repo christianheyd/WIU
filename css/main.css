@@ -97,6 +97,14 @@ figure img{
 	
 }
 
+.description{
+	padding: 10px;
+	padding-top: 12px !important;
+	background-color: #DFDFDF;
+	border: 1px solid #CCC;
+	border-radius: 5px;
+}
+
 /*-------------------------------------------  links -------------------------------------------------------*/
 a{
 	text-decoration: none;
